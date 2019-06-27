@@ -1,0 +1,3 @@
+[submodule "lib/test2"]
+	path = lib/test2
+	url = git@github.com:richmahn/test2
