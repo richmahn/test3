@@ -1,3 +1,6 @@
 [submodule "lib/test2"]
 	path = lib/test2
 	url = git@github.com:richmahn/test2
+[submodule "lib/door43"]
+	path = lib/door43
+	url = git@git.door43.org:richmahn/test
