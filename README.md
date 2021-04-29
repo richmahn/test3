@@ -4,3 +4,4 @@ Add a third line
 d
 master new line
 dd
+a
